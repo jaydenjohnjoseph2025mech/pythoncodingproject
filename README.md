@@ -1,2 +1,2 @@
 # pythoncodingproject
-pythoncodingproject
+pythoncodingproject.git
